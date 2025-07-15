@@ -3,7 +3,7 @@ entries:
   wukongim:
   - apiVersion: v2
     appVersion: v2.1.5-20250424
-    created: "2025-07-15T16:25:10.302794+08:00"
+    created: "2025-07-15T16:25:52.982242+08:00"
     description: WukongIM 集群服务的 Helm Chart
     digest: 5db4ff152358fed535df48779a1adc6e7204df66d57632aa45be0945e55d0e6b
     home: githubim.com
@@ -26,7 +26,7 @@ entries:
     version: v2.1.5-20250424
   - apiVersion: v2
     appVersion: v2.1.5-20250424
-    created: "2025-07-15T16:25:10.30315+08:00"
+    created: "2025-07-15T16:25:52.982581+08:00"
     description: WukongIM 集群服务的 Helm Chart
     digest: 5db4ff152358fed535df48779a1adc6e7204df66d57632aa45be0945e55d0e6b
     home: githubim.com
@@ -47,4 +47,4 @@ entries:
     urls:
     - https://sauceycy.github.io/im-helm/.gh-pages/wukongim-v2.1.5-20250424.tgz
     version: v2.1.5-20250424
-generated: "2025-07-15T16:25:10.30194+08:00"
+generated: "2025-07-15T16:25:52.981546+08:00"
