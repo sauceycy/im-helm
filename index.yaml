@@ -3,7 +3,7 @@ entries:
   wukongim:
   - apiVersion: v2
     appVersion: v2.1.5-20250424
-    created: "2025-07-15T16:25:52.982242+08:00"
+    created: "2025-07-15T16:35:55.795974+08:00"
     description: WukongIM 集群服务的 Helm Chart
     digest: 5db4ff152358fed535df48779a1adc6e7204df66d57632aa45be0945e55d0e6b
     home: githubim.com
@@ -22,6 +22,29 @@ entries:
     - https://github.com/WuKongIM/WuKongIM
     type: application
     urls:
-    - https://sauceycy.github.io/im-helm/wukongim-v2.1.5-20250424.tgz
+    - wukongim-v2.1.5-20250424.tgz
     version: v2.1.5-20250424
-generated: "2025-07-15T16:25:52.981546+08:00"
+  - apiVersion: v2
+    appVersion: v2.1.5-20250424
+    created: "2025-07-15T16:35:55.796357+08:00"
+    description: WukongIM 集群服务的 Helm Chart
+    digest: 5db4ff152358fed535df48779a1adc6e7204df66d57632aa45be0945e55d0e6b
+    home: githubim.com
+    keywords:
+    - 悟空IM（让信息传递更简单）
+    - IM（即时通讯）
+    - 集群（高可用）
+    - Helm Chart（Kubernetes）
+    - WukongIM
+    maintainers:
+    - email: forget@mlvw.team
+      name: vera-byte
+      url: https://github.com/vera-byte
+    name: wukongim
+    sources:
+    - https://github.com/WuKongIM/WuKongIM
+    type: application
+    urls:
+    - .gh-pages/wukongim-v2.1.5-20250424.tgz
+    version: v2.1.5-20250424
+generated: "2025-07-15T16:35:55.795335+08:00"
