@@ -12,7 +12,7 @@
 
 #### 1. 添加Helm仓库
 ```bash
-helm repo add wukongim https://wukongim.github.io/helm/
+helm repo add wukongim https://sauceycy.github.io/im-helm/
 ```
 
 #### 2. 更新Helm仓库
